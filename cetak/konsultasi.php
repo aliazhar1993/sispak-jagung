@@ -52,10 +52,10 @@ if ($cf_kon == 0) {
 			<tr align="center" height="40">
 				<td align="right" valign="middle"><img src="../images/pasbar2.png" width="100" height="100"></td>
 				<td valign="middle">
-					<p style="font-size:18pt; font-weight:bold; margin:0px;">Dinas Pertanian dan Ketahanan Pangan</p>
-					<p style="font-size:16pt; font-weight:bold; margin:0px;">KABUPATEN PASAMAN</p>
-					<p style="font-size:12pt;margin:0px;">Jl. XXX pasaman</p>
-					<p style="font-size:12pt;margin:0px;">Telp. (0753) 20044</p>
+				<p style="font-size:18pt; font-weight:bold; margin:0px;">Dinas Tanaman Pangan Hortikultura Dan Peternakan</p>
+          <p style="font-size:16pt; font-weight:bold; margin:0px;">KABUPATEN PASAMAN BARAT</p>
+          <p style="font-size:12pt;margin:0px;"> Jl. Pertanian Sukamenanti, Aua Kuniang, Pasaman, Kabupaten Pasaman Barat, Sumatera Barat 26566</p>
+          <p style="font-size:12pt;margin:0px;">Telepon: (0753) 65547</p>
 				</td>
 				<td align="left" valign="middle"></td>
 			</tr>
@@ -148,8 +148,8 @@ if ($cf_kon == 0) {
 				<td width="63%" align="left">&nbsp;</td>
 				<td width="4%">&nbsp;</td>
 				<td width="33%" align="left">
-					<p style="margin-top:30px;">Mengetahui,<br />Kepala Dinas Pertanian</p><br />
-					<p style="font-weight:bold">drh. xxxx.</p>
+				<p style="margin-top:30px;">Mengetahui,<br />Dinas Tanaman Pangan Hortikultura Dan Peternakan</p><br />
+          <p style="font-weight:bold">AFDAL, S.P</p>
 				</td>
 			</tr>
 		</table>
