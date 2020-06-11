@@ -40,11 +40,8 @@ if (isset($_POST['email'])) {
                     }
                     ?>
 	</div>
-	
+
 	<form method="post"  name="form1" id="form1">
-
-
-
 		<div class="input-group">
 			<label>Email</label>
 			<input name="email" type="text" id="email" placeholder="Email" >
@@ -57,10 +54,8 @@ if (isset($_POST['email'])) {
 			<button type="submit" class="btn" name="login_user">Login</button>
 		</div>
 		<p>
-			Not yet a member? <a href="daftar.php">Sign up</a>
+			Not yet a member? <a href="?page=daftar.php">Sign up</a>
 		</p>
 	</form>
-
-
 </body>
 </html>

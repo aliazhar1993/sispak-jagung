@@ -181,7 +181,6 @@ https://templatemo.com/tm-503-newline
           </div>
         </div>
       </li>
-
       <li>
         <div class="heading">
           <h1>Login</h1>
@@ -193,7 +192,7 @@ https://templatemo.com/tm-503-newline
                 <div class="content third-content">
                   <div class="row">
                     <div class="col-md-7 left-image">
-                      <img src="img/left-feature-image.png">
+                      <img src="images/login.jpg">
                     </div>
                     <div class="col-md-5">
                       <div class="right-feature-text">
@@ -244,7 +243,7 @@ https://templatemo.com/tm-503-newline
                         </div>
                         <br>
                         <p>
-                          <b> Belum Daftar? <a href="daftar.php">Klik Disini</a></b>
+                          <b> Belum Daftar? <a href="registrasi/">Klik Disini</a></b>
 
                         </p>
                       </form>
