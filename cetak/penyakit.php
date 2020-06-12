@@ -94,7 +94,7 @@ include "../Connections/koneksi.php";
         <td width="4%">&nbsp;</td>
         <td width="33%" align="left">
           <p style="margin-top:30px;">Mengetahui,<br />Dinas Tanaman Pangan Hortikultura Dan Peternakan</p><br />
-          <p style="font-weight:bold">AFDAL, S.P</p>
+          <p style="font-weight:bold"> <u>AFDAL, S.P</u> <br>NIP. 197508062007011007</p>
         </td>
       </tr>
     </table>
