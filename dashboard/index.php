@@ -36,3 +36,25 @@ include "header.php";
 include "../validasi/css2.php";
 include $page;
 include "footer.php";
+?>
+
+
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="block-header">
+
+        </div>
+
+
+
+
+        <div class="row clearfix">
+
+        </div>
+    </div>
+</section>
+
+<?php
+include "footer.php";
+?>

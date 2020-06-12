@@ -122,7 +122,7 @@ https://templatemo.com/tm-503-newline
     <ul class="cd-hero-slider">
       <li class="selected">
         <div class="heading">
-          <h1>Sistem Pakar PENYAKIT TANAMAN JAGUNG <br>Dinas Pertanian Pasaman Barat</h1>
+          <h1>Sistem Pakar Dalam Meningkatkan Produksi <br> JAGUNG pada kelompok sumba tani <br>Dinas Pertanian Pasaman Barat</h1>
           <span>Selamat Datang</span>
           <br><br>
           <img src="images/pasbar2.png" width="200" alt="">
