@@ -13,7 +13,7 @@ if (isset($_GET['menu'])) {
         <div class="container-fluid">
             <div class="block-header">
                 <h2>
-                    Riwayat Konsultasi Penyakit Kucing
+                    Riwayat Konsultasi Penyakit Jagung
                     <small>Taken from <a href="https://datatables.net/" target="_blank">datatables.net</a></small>
                 </h2>
             </div>

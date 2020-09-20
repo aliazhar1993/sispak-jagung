@@ -27,7 +27,7 @@ if (isset($_POST['pil_cf_gej'])) {
         <div class="container-fluid">
             <div class="block-header">
                 <h2>
-                    Riwayat Konsultasi Penyakit Kucing
+                    Riwayat Konsultasi Penyakit Jagung
                     
                 </h2>
             </div>

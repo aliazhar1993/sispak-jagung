@@ -29,7 +29,7 @@ if (isset($_POST['nama_pen'])) {
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <form name="form1" id="form1" method="post" enctype="multipart/form-data">
+            <form name="nama_pen" id="nama_pen" method="post" enctype="multipart/form-data">
                 <div class="isian-form">
                     <div class="col-md-4 col-sm-4">
                         <?php
@@ -50,18 +50,6 @@ if (isset($_POST['nama_pen'])) {
                                 <div class="form-group">
                                     <div class="form-line">
                                         <input class="form-control" name="idgej" type="text" id="idgej" readonly="readonly" placeholder="ID Penyakit" value="<?= $idpen; ?>">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row clearfix">
-                            <div class="col-lg-2 col-md-2 col-sm-4 col-xs-5 form-control-label">
-                                <label for="">Nama Penyakit</label>
-                            </div>
-                            <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
-                                <div class="form-group">
-                                    <div class="form-line">
-                                        <input class="form-control" name="nama_pen" type="text" id="nama_pen" placeholder="Nama Penyakit" />
                                     </div>
                                 </div>
                             </div>
@@ -110,7 +98,7 @@ if (isset($_POST['nama_pen'])) {
                             <div class="col-lg-2 col-md-2 col-sm-4 col-xs-5 form-control-label">
                                 <label for="">Penanganan</label>
                             </div>
-                            <br><br>    
+                            <br><br>
                             <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                                 <div class="form-group">
                                     <div class="form-line">
@@ -133,8 +121,9 @@ if (isset($_POST['nama_pen'])) {
                         </div>
                         <div class="row clearfix">
                             <div class="col-lg-offset-2 col-md-offset-2 col-sm-offset-4 col-xs-offset-5">
-
                                 <input type="submit" class="mainBtn" id="proses" value="Simpan">
+
+                                <!-- <input type="submit" class="mainBtn" id="proses" value="Proses"> -->
                             </div>
                         </div>
 
@@ -170,7 +159,7 @@ if (isset($_POST['nama_pen'])) {
                                         <td align="center"><?= $no; ?></td>
                                         <td><label for="pil_cf_gej_<?= $no - 1; ?>" id="label_cf_gej<?= $no - 1; ?>" class="pilih"><?= $row['idgej']; ?> - <?= $row['nama_gej']; ?></label></td>
                                         <td>
-                                            <select id="pil_cf_gej_<?= $no - 1; ?>" name="pil_cf_gej[]" class="pil_cf_gej" style="width:200px;">
+                                            <select id="label_cf_gej<?= $no - 1; ?>" name="pil_cf_gej[]" style="width:200px;">
                                                 <option value="">- Pilih -</option>
                                                 <?php
                                                 for ($i = 20; $i <= 100; $i++) {
